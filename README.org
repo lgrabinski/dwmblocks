@@ -1,0 +1,9 @@
+#+TITLE: dwmblocks
+#+AUTHOR: lgrabinski
+#+EMAIL:  lgrabinski@gmail.com
+
+ My fork of dwmblocks
+ 
+* patches 
+  - dwmblocks-statuscmd
+    Modified
