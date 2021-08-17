@@ -6,11 +6,12 @@ static const Block blocks[] = {
 	{"",	"weather-sb",		60,		1},
 	{"",	"kernel-sb",		3600,	2},
 	{"",	"memory-sb",		1,		3},
-	{"",	"system-sb",		60,		4},
-	{"",	"disk-sb",			60,		5},
-	{"",	"battery-sb",		60,		6},
-	{"",	"clock-sb",			30,		7},
-	{"",	"user-sb",			60,		8},
+	{"",  "cpu-sb",       1,    4},
+	{"",	"system-sb",		60,		5},
+	{"",	"disk-sb",			60,		6},
+	{"",	"battery-sb",		60,		7},
+	{"",	"clock-sb",			30,		8},
+	{"",	"user-sb",			60,		9},
 
 	//{"", "date '+%b %d (%a) %I:%M%p'",					5,		0},
 };
